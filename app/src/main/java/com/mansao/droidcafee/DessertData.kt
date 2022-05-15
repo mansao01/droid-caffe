@@ -5,7 +5,6 @@ object DessertData {
         "Donuts are glazed and sprinkled with \n candy",
         "Ice cream sandwich have chocolate \n wafers and vanilla filing",
         "Froyo is premium self-serve frozen yogurt",
-        "Yogurt is a fermented milk "
     )
 
     private val dessertName = arrayOf(

@@ -13,7 +13,7 @@
         android:layout_height="120dp"
         android:layout_marginTop="32dp"
         android:src="@drawable/ic_doughnut_svgrepo_com"
-        android:layout_gravity="center" />
+        android:layout_gravity="center"/>
 
     <TextView
         android:id="@+id/tv_dessert_description"
